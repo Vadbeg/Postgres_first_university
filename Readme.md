@@ -1,4 +1,4 @@
-# Business Documentation
+# Postgres tasks
 Tasks for Data Bases subject
 
 ## Getting Started
