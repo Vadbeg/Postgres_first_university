@@ -21,7 +21,7 @@ It will start postgres server
 
 ## Built With
 
-* [PostgreSQL](https://www.postgresql.org) -Relational database used 
+* [PostgreSQL](https://www.postgresql.org) - Relational database used 
 
 ## Authors
 
