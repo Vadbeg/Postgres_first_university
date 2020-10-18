@@ -1,0 +1,11 @@
+version: "3.1"
+
+services:
+  postgres_db:
+    image: postgres:10.5
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_DB=pbz1
+      - POSTGRES_USER=pbz1
+      - POSTGRES_PASSWORD=pbz1
